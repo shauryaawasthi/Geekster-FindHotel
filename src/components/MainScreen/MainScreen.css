@@ -1,0 +1,80 @@
+.hotel-title{
+    color: #0071f3;
+}
+
+.perfect{
+    color: #0071f3;
+    font-weight: bold;
+
+}
+
+/* .Main-Div{
+    background-image: url('./download.png');
+    background-size: cover;
+    
+} */
+
+.main-wrap{
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    /* position: absolute; */
+    height:650px;
+    width: 450px;
+    background: rgb(128, 128, 128,.7);
+    background:whitesmoke;
+    background-image: url('./download.png');
+    background-image: linear-gradient(rgba(255,255,255,0.4), rgba(255,255,255,0.4)), url("./download.png");
+    background-size: cover;
+    border-radius: 10px;
+    padding: 10px;
+    /* opacity: .7; */
+    /* backdrop-filter: blur(5px); */
+    
+    /* padding-left: 10px; */
+    /* background-image: ; */
+    
+}
+
+
+
+/* .Main-Div::before{
+    content: "";
+    background-image: url('./download.png');
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    opacity: 0.75;
+} */
+
+.text-wrap{
+    /* position: relative; */
+    margin-top: 100px;
+    font-weight:20px;
+    padding: 0;
+    line-height: 10px;
+    font-size: 25px;
+    padding-left: 10px;
+    /* backdrop-filter: blur(5px); */
+
+}
+
+.main-warp h1{
+    padding-left: 20px;
+    margin-bottom: 60px;
+
+}
+
+
+
+.work-wrap{
+    margin-top: 210px;
+    /* margin-left: 100px; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}

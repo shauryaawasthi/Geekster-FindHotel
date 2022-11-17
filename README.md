@@ -1,4 +1,4 @@
-Step 1: Open VSCODE and clone the respo usind the code link.Copy the code HTTP adress:: "https://github.com/shauryaawasthi/Geekster-FindHotel.git"
+Step 1: Open VSCODE and clone the respo using the code link.Copy the code HTTP address:: "https://github.com/shauryaawasthi/Geekster-FindHotel.git"
 
 Step 2: Using the git clone extension open the React app folders and files in VSCODE.
 
